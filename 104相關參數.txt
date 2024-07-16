@@ -1,0 +1,3 @@
+Request URL：https://www.104.com.tw/jobs/main/ajax/KeywordSuggest/mixSearch?kw=python&scope=com&count=4
+Request Method：GET
+Headers Referer：https://www.104.com.tw
